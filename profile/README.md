@@ -1,5 +1,3 @@
-# Documentation
-
 ## OpenLabs
 
 OpenLabs is a platform for the easy creation of vulnerable cyber environments.
