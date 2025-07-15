@@ -1,2 +1,2 @@
 # .github
-Default Files for the OpenLabsX organization on GitHub
+Default Files for the OpenLabs organization on GitHub
